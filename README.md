@@ -36,7 +36,8 @@ COLUMN O: group - subfamily of Sphingidae to which the species belongs. <br>
 COLUMN P: label - just a numbered list to add labels in the figures. <br>
 COLUMN Q: mean.slit - average distance between the halves of the longitudinal flight muscles. Used to infer the pore structure of the thorax. The distances were measured in five equidistant places along the thorax of the hawkmoths. Unit: mm. <br>
 COLUMN R: sd-slit - standard deviation of the distance between the halves of the longitudinal flight muscles. <br>
-COLUMN T: 
+COLUMN S: maximum - maximum distance between the halves of the longitudinal flight muscles. Used to infer the pore structure of the thorax. The distances were measured in five equidistant places along the thorax of the hawkmoths. Unit: mm. <br>
+COLUMN T: minimum - minimum distance between the halves of the longitudinal flight muscles. Used to infer the pore structure of the thorax. The distances were measured in five equidistant places along the thorax of the hawkmoths. Unit: mm. <br>
 
 The code was run in R software v4.2.2.
 Packages used:
