@@ -18,7 +18,7 @@ METADATA OF hemolymph_data.csv
 
 In the columns we have the variables, in rows we have the individuals. We obtained mean values by averaging the individuals of the species.
 
-COLUMN A: species - the hawkmoth species
+COLUMN A: species - the hawkmoth species <br>
 COLUMN B: m.visc - mean viscosity for the species, in mPa*s. We measured viscosity using magnetic rotational spectroscopy (MRS). For a full description of how it was measured, please check the main manuscript.
 COLUMN C: visc.std - standard deviation of the viscosity for the species
 COLUMN D: body length - mean distance between the distal end of the abdomen and the distal end of the head. Unit: cm
