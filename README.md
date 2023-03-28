@@ -19,22 +19,22 @@ METADATA OF hemolymph_data.csv
 In the columns we have the variables, in rows we have the individuals. We obtained mean values by averaging the individuals of the species.
 
 COLUMN A: species - the hawkmoth species <br>
-COLUMN B: m.visc - mean viscosity for the species, in mPa*s. We measured viscosity using magnetic rotational spectroscopy (MRS). For a full description of how it was measured, please check the main manuscript.
-COLUMN C: visc.std - standard deviation of the viscosity for the species
-COLUMN D: body length - mean distance between the distal end of the abdomen and the distal end of the head. Unit: cm
-COLUMN E: length.sd - standard deviation of the distance between the distal end of the abdomen and the distal end of the head.
-COLUMN F: body.width - mean distance between the base of the wings. Unit: cm.
-COLUMN G: width.sd - standard deviation of the distance between the base of the wings. 
-COLUMN H: volume - mean inferred body volume. We inferred body volume using the equation of a circular cylinder using body length and width measurements. Unit: cm cubed
-COLUMN I: vol.sd - standard deviation of the inferred body volume.
-COLUMN J: forewing.length - mean distance between the base of the wing to the outermost tip. Unit: cm.
-COLUMN K: forewing.sd - standard deviation of the distance between the base of the wing to the outermost tip.
-COLUMN L: N - number of individuals probed for hemolymph viscosity.
-COLUMN M: sp.in.tree - name of the species in the phylogenetic tree.
-COLUMN N: group - subfamily of Sphingidae to which the species belongs.
-COLUMN O: label - just a numbered list to add labels in the figures.
-COLUMN P: mean.slit - average distance between the halves of the longitudinal flight muscles. Used to infer the pore structure of the thorax. The distances were measured in five equidistant places along the thorax of the hawkmoths. Unit: mm.
-COLUMN Q: sd-slit - standard deviation of the distance between the halves of the longitudinal flight muscles.
+COLUMN B: m.visc - mean viscosity for the species, in mPa*s. We measured viscosity using magnetic rotational spectroscopy (MRS). For a full description of how it was measured, please check the main manuscript. <br>
+COLUMN C: visc.std - standard deviation of the viscosity for the species <br>
+COLUMN D: body length - mean distance between the distal end of the abdomen and the distal end of the head. Unit: cm <br>
+COLUMN E: length.sd - standard deviation of the distance between the distal end of the abdomen and the distal end of the head. <br>
+COLUMN F: body.width - mean distance between the base of the wings. Unit: cm. <br>
+COLUMN G: width.sd - standard deviation of the distance between the base of the wings. <br>
+COLUMN H: volume - mean inferred body volume. We inferred body volume using the equation of a circular cylinder using body length and width measurements. Unit: cm cubed <br>
+COLUMN I: vol.sd - standard deviation of the inferred body volume. <br>
+COLUMN J: forewing.length - mean distance between the base of the wing to the outermost tip. Unit: cm. <br>
+COLUMN K: forewing.sd - standard deviation of the distance between the base of the wing to the outermost tip. <br>
+COLUMN L: N - number of individuals probed for hemolymph viscosity. <br>
+COLUMN M: sp.in.tree - name of the species in the phylogenetic tree. <br>
+COLUMN N: group - subfamily of Sphingidae to which the species belongs. <br>
+COLUMN O: label - just a numbered list to add labels in the figures. <br>
+COLUMN P: mean.slit - average distance between the halves of the longitudinal flight muscles. Used to infer the pore structure of the thorax. The distances were measured in five equidistant places along the thorax of the hawkmoths. Unit: mm. <br>
+COLUMN Q: sd-slit - standard deviation of the distance between the halves of the longitudinal flight muscles. <br>
 
 The code was run in R software v4.2.2.
 Packages used:
