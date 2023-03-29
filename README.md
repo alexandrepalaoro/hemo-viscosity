@@ -30,14 +30,15 @@ COLUMN I: vol.sd - standard deviation of the inferred body volume. <br>
 COLUMN J: prob.length - mean length of the proboscis. Measured from the head to the tip. Unit: cm. <br>
 COLUMN K: forewing.length - mean distance between the base of the wing to the outermost tip. Unit: cm. <br>
 COLUMN L: forewing.sd - standard deviation of the distance between the base of the wing to the outermost tip. <br>
-COLUMN M: N - number of individuals probed for hemolymph viscosity. <br>
-COLUMN N: sp.in.tree - name of the species in the phylogenetic tree. <br>
-COLUMN O: group - subfamily of Sphingidae to which the species belongs. <br>
-COLUMN P: label - just a numbered list to add labels in the figures. <br>
-COLUMN Q: mean.slit - average distance between the halves of the longitudinal flight muscles. Used to infer the pore structure of the thorax. The distances were measured in five equidistant places along the thorax of the hawkmoths. Unit: mm. <br>
-COLUMN R: sd-slit - standard deviation of the distance between the halves of the longitudinal flight muscles. <br>
-COLUMN S: maximum - maximum distance between the halves of the longitudinal flight muscles. Used to infer the pore structure of the thorax. The distances were measured in five equidistant places along the thorax of the hawkmoths. Unit: mm. <br>
-COLUMN T: minimum - minimum distance between the halves of the longitudinal flight muscles. Used to infer the pore structure of the thorax. The distances were measured in five equidistant places along the thorax of the hawkmoths. Unit: mm. <br>
+COLUMN M: forewing.max - highest measurement within a species of the distance between the base of the wing to the outermost tip. Unit: cm <br>
+COLUMN N: N - number of individuals probed for hemolymph viscosity. <br>
+COLUMN O: sp.in.tree - name of the species in the phylogenetic tree. <br>
+COLUMN P: group - subfamily of Sphingidae to which the species belongs. <br>
+COLUMN Q: label - just a numbered list to add labels in the figures. <br>
+COLUMN R: mean.slit - average distance between the halves of the longitudinal flight muscles. Used to infer the pore structure of the thorax. The distances were measured in five equidistant places along the thorax of the hawkmoths. Unit: mm. <br>
+COLUMN S: sd-slit - standard deviation of the distance between the halves of the longitudinal flight muscles. <br>
+COLUMN T: maximum - maximum distance between the halves of the longitudinal flight muscles. Used to infer the pore structure of the thorax. The distances were measured in five equidistant places along the thorax of the hawkmoths. Unit: mm. <br>
+COLUMN U: minimum - minimum distance between the halves of the longitudinal flight muscles. Used to infer the pore structure of the thorax. The distances were measured in five equidistant places along the thorax of the hawkmoths. Unit: mm. <br>
 
 The code was run in R software v4.2.2.
 Packages used:
